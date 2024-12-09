@@ -1,1 +1,2 @@
-completed python internship. and hill and valley prediction is final project
+completed python internship. 
+ project : hill and valley prediction.
